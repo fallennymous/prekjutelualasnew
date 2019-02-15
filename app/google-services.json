@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "641976922036",
+    "firebase_url": "https://prekjutelulas-37fea.firebaseio.com",
+    "project_id": "prekjutelulas-37fea",
+    "storage_bucket": "prekjutelulas-37fea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641976922036:android:67b5c21b89b78657",
+        "android_client_info": {
+          "package_name": "com.example.fallennymous.prekjutelulas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641976922036-rjrtfjgak4t3db991spddrjmqh8h0ope.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fallennymous.prekjutelulas",
+            "certificate_hash": "f125fa34203fe79a77d3315fd2278efc9fcf04e7"
+          }
+        },
+        {
+          "client_id": "641976922036-j2hoo6vcbaf8146mpg2gjivcjletld1e.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "641976922036-j2hoo6vcbaf8146mpg2gjivcjletld1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzZL7zQHPj8SGnMO0u92UEHcZapMCfdFo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641976922036-j2hoo6vcbaf8146mpg2gjivcjletld1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
